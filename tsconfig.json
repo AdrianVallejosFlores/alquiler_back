@@ -38,7 +38,7 @@
     },
 
     /* === Nueva opción para desarrolladores === */
-    "allowImportingTsExtensions": true,   // Útil con moduleResolution NodeNext
+    //"allowImportingTsExtensions": true,   // Útil con moduleResolution NodeNext
     "noUncheckedIndexedAccess": false,    // Puedes activarlo para aún más seguridad
     "incremental": true                   // Compilación incremental más rápida
   },
